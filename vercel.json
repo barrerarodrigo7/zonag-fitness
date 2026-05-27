@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/planes", "destination": "/index.html" },
+    { "source": "/horarios", "destination": "/index.html" }
+  ]
+}
